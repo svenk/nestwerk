@@ -44,4 +44,6 @@ Code ist Public Domain.
 
 Siehe auch: https://github.com/morschl/familienapp für das "Rahmenprojekt" sowie
 https://twitter.com/DigitalHubMs/status/1441850944132550659 für den Bericht über
-den zweiten Preis.
+den zweiten Preis. Siehe https://github.com/codeformuenster/muensterhack/blob/master/2021.md
+für eine Liste weiterer MSHack21-Projekte.
+Zugehöriger Twitter-Hashtag: [#MSHack21](https://twitter.com/search?q=%23mshack21&src=typed_query)
