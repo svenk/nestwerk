@@ -41,3 +41,7 @@ gestellt wurde, siehe
 
 Die gesamte Entwicklung und Umsetzung des Projektes hat ca 90 Minuten gedauert.
 Code ist Public Domain.
+
+Siehe auch: https://github.com/morschl/familienapp für das "Rahmenprojekt" sowie
+https://twitter.com/DigitalHubMs/status/1441850944132550659 für den Bericht über
+den zweiten Preis.
